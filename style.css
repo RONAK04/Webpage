@@ -1,0 +1,151 @@
+
+
+img {
+  width: 100%;
+  height: 400px;
+}
+#slider {
+  width: 30%;
+  height: 400px;
+  left: 12.5%;
+  margin-top: 3%;
+  position: relative;
+}
+button {
+  padding: 20px;
+  border: none;
+  background: white;
+  font-size: 100px;
+  color: black;
+  position: absolute;
+  top: 45%;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.next {
+  border-radius: 100%;
+  margin-left: 85%;
+}
+.prew {
+  border-radius: 100%;
+  margin-left: 1%;
+}
+
+.flexbox-container img {
+  display: flex;
+  
+}
+
+.flexbox-item img {
+  width: 5%;
+  height: 61px;
+}
+
+.flexbox-item-1 img {
+  min-height: 61px;
+  margin-left: 12.5%;
+  margin-top: 10px;
+}
+
+.flexbox-item-2 img {
+  min-height: 61px;
+  margin-left: 18.3%;
+  margin-top: -60px;
+}
+
+.flexbox-item-3 img {
+  min-height: 61px;
+  margin-left: 24.6%;
+  margin-top: -60px;
+}
+
+.flexbox-item-4 img {
+  min-height: 61px;
+  margin-left: 31%;
+  margin-top: -60px;
+}
+
+.flexbox-item-5 img {
+  min-height: 61px;
+  margin-left: 37.5%;
+  margin-top: -60px;
+}
+
+.checked {
+  color: #00cc99;
+}
+.p1 {
+  line-height: 1.5;
+}
+
+.p2 {
+  line-height: 1.5;
+}
+
+h2 {
+  margin-top: -5px;
+}
+
+.button{
+	position:absolute;
+  margin-top: -1%;
+}
+
+.btn1{
+	border: 1px solid black;
+	padding: 10px 30px;
+	color:white;
+	text-decoration: none;
+	background-color: black;
+
+}
+
+.btn2{
+	border: 1px solid black;
+	padding: 10px 30px;
+	color:black;
+	text-decoration: none;
+	background-color: white;
+
+}
+
+.flexbox-container details{
+	left:20%;
+}
+.details{
+	margin-left: 49%;
+  margin-top: -34%;
+}
+.p1{
+  margin-top: 1%;
+  font-size: 13.5px;
+}
+
+.p2{
+  font-size:12px;
+  margin-top: 3%;
+}
+.p4{
+  margin-top: -3%;
+}
+
+.p3{
+  margin-top: 1%;
+}
+
+.dis{
+  font-size: 12px;
+}
+
+.methods{
+  list-style: none;
+  margin-top: 18%;
+  display: flex;
+  margin-top:  17%;
+}
+
+.methods li{
+  margin-top: -10%;
+  margin-left: 15%;
+}
